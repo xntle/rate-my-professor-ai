@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Stone",
+        "subject": "Calculus",
+        "stars": 4,
+        "review": "Dr. Stone explains concepts clearly, but her exams are tough. Study hard!"
+      },
+      {
+        "professor": "Professor Michael Lee",
+        "subject": "History of Art",
+        "stars": 5,
+        "review": "An amazing professor with a deep passion for art history. His lectures are engaging!"
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Lectures are informative, but she tends to speak very quickly."
+      },
+      {
+        "professor": "Professor Robert Davis",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "One of the best professors I've ever had. His insights into literature are profound."
+      },
+      {
+        "professor": "Dr. Jennifer Martinez",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Difficult to follow in lectures, but her office hours are helpful."
+      },
+      {
+        "professor": "Professor David Chen",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Great professor, but the assignments are very challenging. Be prepared to code a lot."
+      },
+      {
+        "professor": "Dr. Laura Thompson",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Interesting lectures, but grading is a bit harsh. Participate in discussions to get better grades."
+      },
+      {
+        "professor": "Professor Mark Wilson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Concepts are explained well, but the labs are disorganized."
+      },
+      {
+        "professor": "Dr. Nancy Taylor",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. Taylor is incredible. She really cares about her students and the subject matter."
+      },
+      {
+        "professor": "Professor James Clark",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Lectures can be dry, and it's easy to fall behind if you're not paying attention."
+      },
+      {
+        "professor": "Dr. Karen White",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "A very knowledgeable professor, but her exams are quite difficult."
+      },
+      {
+        "professor": "Professor Alan Moore",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "His classes make you think deeply. Highly recommend if you enjoy philosophical discussions."
+      },
+      {
+        "professor": "Dr. Lisa Harris",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Lectures are a bit dry, but the content is solid. Study the examples closely."
+      },
+      {
+        "professor": "Professor Kevin Brown",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Engaging lectures and field trips, but sometimes the workload feels overwhelming."
+      },
+      {
+        "professor": "Dr. William King",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Dr. King is passionate about music and it shows. His classes are a joy."
+      },
+      {
+        "professor": "Professor Susan Adams",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Very knowledgeable and approachable. Her lectures are always interesting."
+      },
+      {
+        "professor": "Dr. Charles Young",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Solid teaching but sometimes goes too fast. Take good notes."
+      },
+      {
+        "professor": "Professor Patricia Green",
+        "subject": "Geography",
+        "stars": 5,
+        "review": "Incredibly engaging and enthusiastic. Makes learning about geography exciting."
+      },
+      {
+        "professor": "Dr. Richard Evans",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Good content, but the lectures can be a bit monotonous."
+      },
+      {
+        "professor": "Professor Angela Scott",
+        "subject": "Drama",
+        "stars": 5,
+        "review": "Her passion for drama is infectious. You'll love every moment in her class."
+      }
+    ]
+  }
+  
